@@ -204,9 +204,9 @@ import {
   
   const projects = [
     {
-      name: "Marketplace CRM",
+      name: "Elecriborne",
       description:
-        "project aims to develop a comprehensive marketplace CRM tailored to the needs of sellers operating.The CRM will centralize order management, streamline communication with customers, and provide in-depth analytics to optimize sales performance. Key features include seamless integration with leading marketplace platforms, automated feedback management, and advanced inventory synchronization.",
+        "This project is an advanced web application tailored for charging station companies. It offers a comprehensive suite of features to efficiently manage various aspects. From creating and tracking installation quotes to handling inventory, customer relations, technician assignments, and invoicing. Additionally, it includes a messaging system for seamless communication with clients, integrated payment processing, supplier management functionalities, and a built-in blogging feature to keep stakeholders informed and engaged. ",
       tags: [
         {
           name: "Bubble.io",
@@ -214,7 +214,7 @@ import {
         }
       ],
       image: crm,
-      source_code_link: "https://panel-ecommerce-abderazak.bubbleapps.io/version-test/crm?tab=tab1",
+      source_code_link: "https://elc-71921.bubbleapps.io/version-test/dashboard?tab=tab4",
     },
     {
       name: "TDL FORMATION",
