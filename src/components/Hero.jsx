@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Abderrazzak</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop web applications with Bubble
+            I'm a web and mobile app developer
           </p>
         </div>
       </div>

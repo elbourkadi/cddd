@@ -204,48 +204,57 @@ import {
   
   const projects = [
     {
-      name: "Elecriborne",
+      name: "T-lix",
       description:
-        "This project is an advanced web application tailored for charging station companies. It offers a comprehensive suite of features to efficiently manage various aspects. From creating and tracking installation quotes to handling inventory, customer relations, technician assignments, and invoicing. Additionally, it includes a messaging system for seamless communication with clients, integrated payment processing, supplier management functionalities, and a built-in blogging feature to keep stakeholders informed and engaged. ",
+        "tlix.app is an advanced mobile application for taxi booking, designed to offer seamless real-time reservation capabilities. It is complemented by a robust web management system that facilitates driver document verification, ride history tracking, and resolution of user-reported issues. This comprehensive solution ensures a secure, efficient, and reliable service for both drivers and passengers.",
       tags: [
         {
-          name: "Bubble.io",
-          color: "blue-text-gradient",
-        }
-      ],
-      image: crm,
-      source_code_link: "https://elc-71921.bubbleapps.io/version-test/dashboard?tab=tab4",
-    },
-    {
-      name: "TDL FORMATION",
-      description:
-        "Our project involves building a user-friendly website on Bubble.io for professional training courses in Taxi, VTC, ECSR, SIAPP, CACES, and Employée Commercial. The platform offers easy course selection, registration, and payment processing, with personalized profiles and interactive scheduling. Our goal is to provide convenient and efficient access to quality training, empowering users to advance their careers seamlessly.",
-      tags: [
-        {
-          name: "Bubble.io",
-          color: "blue-text-gradient",
-        }
-      ],
-      image: tdl,
-      source_code_link: "https://tdlformation.com/version-test/acceuil3",
-    },
-    {
-      name: "ASTRALIS GROUPE",
-      description:
-        "Astralis is a premier engineering consultancy in France, specializing in electric vehicle charging station installations. Our team delivers personalized studies and innovative solutions to businesses, municipalities, and condominiums. With a robust network of partners, we ensure flawless installations and comprehensive client support, making us the ideal partner for turnkey electric mobility solutions.",
-      tags: [
-        {
-          name: "Softr",
-          color: "green-text-gradient",
-        },
-        {
-          name: "low-code",
+          name: "Webflow",
           color: "pink-text-gradient",
         },
         {
           name: "Bubble.io",
           color: "blue-text-gradient",
         }
+      ],
+      image: crm,
+      source_code_link: "https://www.tlix.app/",
+    },
+    {
+      name: "Beautify",
+      description:
+        "Beautify is a SaaS platform designed to streamline the management of beauty salons. It includes a subscription and payment system for purchasing and managing SaaS plans and features a mobile application for customers to book appointments with salons subscribed to the platform, ensuring a seamless and efficient experience for both salon owners and clients.",
+      tags: [
+        {
+          name: "Bubble.io",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Flutterflow",
+          color: "green-text-gradient",
+        }
+      ],
+      image: tdl,
+      source_code_link: "https://marvestglobal.bubbleapps.io/version-test",
+    },
+    {
+      name: "Cloud Learning",
+      description:
+        "CloudLearning is an interactive e-learning platform designed to deliver engaging and accessible online education. It supports real-time collaboration between students and instructors through live sessions, interactive content, and a user-friendly interface, providing an efficient and dynamic learning experience.",
+      tags: [
+        {
+          name: "Bubble.io",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Make",
+          color: "green-text-gradient",
+        },
+        {
+          name: "",
+          color: "pink-text-gradient",
+        },
+        
       ],
       image: astralis,
       source_code_link: "https://www.astralisgroupe.fr/",
