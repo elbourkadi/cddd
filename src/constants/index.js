@@ -215,7 +215,11 @@ import {
         {
           name: "Bubble.io",
           color: "blue-text-gradient",
-        }
+        },
+        {
+          name: "Figma",
+          color: "pink-text-gradient",
+        },
       ],
       image: crm,
       source_code_link: "https://www.tlix.app/",
@@ -232,7 +236,11 @@ import {
         {
           name: "Flutterflow",
           color: "green-text-gradient",
-        }
+        },
+        {
+          name: "Figma",
+          color: "pink-text-gradient",
+        },
       ],
       image: tdl,
       source_code_link: "https://marvestglobal.bubbleapps.io/version-test",
@@ -251,13 +259,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "",
+          name: "Figma",
           color: "pink-text-gradient",
         },
         
       ],
       image: astralis,
-      source_code_link: "https://www.astralisgroupe.fr/",
+      source_code_link: "https://livecloudlearning.com/version-test/",
     },
     
     {
