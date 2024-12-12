@@ -204,6 +204,27 @@ import {
   
   const projects = [
     {
+      name: "Walflow",
+      description:
+        "Walflow is a SaaS solution that streamlines procurement processes by managing purchase requests, orders, inventory, and suppliers. It also offers features for invoice generation and PDF creation. With API integration, Walflow ensures seamless communication with other systems, improving overall efficiency. The platform also provides financial reporting tools to help businesses maintain better control over their procurement operations.",
+      tags: [
+        {
+          name: "Bubble.io",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Api integration",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Figma",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://www.walflow.com",
+    },
+    {
       name: "T-lix",
       description:
         "tlix.app is an advanced mobile application for taxi booking, designed to offer seamless real-time reservation capabilities. It is complemented by a robust web management system that facilitates driver document verification, ride history tracking, and resolution of user-reported issues. This comprehensive solution ensures a secure, efficient, and reliable service for both drivers and passengers.",
@@ -381,27 +402,7 @@ import {
       image: jobit,
       source_code_link: "https://github.com/",
     },
-    {
-      name: "Clone Glovo",
-      description:
-        "is a mobile app that offers is a mobile app that offers on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. It allows users to order from local stores and have items delivered to their doorstep in a timely and convenient manner.on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. It allows users to order from local stores and have items delivered to their doorstep in a timely and convenient manner.is a mobile app that offers on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. ",
-      tags: [
-        {
-          name: "Java",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "eclipse",
-          color: "green-text-gradient",
-        },
-        {
-          name: "",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
