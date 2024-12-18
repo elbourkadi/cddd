@@ -203,27 +203,7 @@ import {
   ];
   
   const projects = [
-    {
-      name: "Walflow",
-      description:
-        "Walflow is a SaaS solution that streamlines procurement processes by managing purchase requests, orders, inventory, and suppliers. It also offers features for invoice generation and PDF creation. With API integration, Walflow ensures seamless communication with other systems, improving overall efficiency. The platform also provides financial reporting tools to help businesses maintain better control over their procurement operations.",
-      tags: [
-        {
-          name: "Bubble.io",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Api integration",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Figma",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://www.walflow.com",
-    },
+    
     {
       name: "T-lix",
       description:
@@ -402,6 +382,27 @@ import {
       image: jobit,
       source_code_link: "https://github.com/",
     },
+    {
+      name: "Clone Glovo",
+      description:
+        "is a web app that offers is a web app that offers on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. It allows users to order from local stores and have items delivered to their doorstep in a timely and convenient manner.on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. It allows users to order from local stores and have items delivered to their doorstep in a timely and convenient manner.is a mobile app that offers on-demand delivery services for a variety of products, including food, groceries, pharmacy items, and more. ",
+      tags: [
+        {
+          name: "Java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "eclipse",
+          color: "green-text-gradient",
+        },
+        {
+          name: "",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/",
+    }
     
   ];
   
